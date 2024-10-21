@@ -1,9 +1,9 @@
 import streamlit as st
 
-from nltk.corpus import stopwords
+#from nltk.corpus import stopwords
 
-from nltk.stem import WordNetLemmatizer, SnowballStemmer
-from nltk.tag import pos_tag
+#from nltk.stem import WordNetLemmatizer, SnowballStemmer
+#from nltk.tag import pos_tag
 
 
 st.title("Your sentences are toxic or not!!")
